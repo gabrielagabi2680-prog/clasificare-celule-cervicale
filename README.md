@@ -13,3 +13,7 @@ Herlev — 917 imagini, 7 clase
 SIPaKMeD — 4049 imagini, 5 clase
 CRIC — 11.534 adnotări
 CerviAssist — dataset privat adnotat manual
+
+
+#autor
+Petcu Florentina-Gabriela
